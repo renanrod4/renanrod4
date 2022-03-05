@@ -18,5 +18,5 @@
 
   ![github stats](https://github-readme-stats.vercel.app/api?username=renanrod4&theme=nord)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanrod4&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanrod4&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 </div>
