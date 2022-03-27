@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm Renan 👋</h1>
+            <image src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Nerd+Font&size=17&duration=3000&lines=Hi there, i1m Renan">
+
 
   <!--
   **renanrod4/renanrod4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
