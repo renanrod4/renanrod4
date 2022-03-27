@@ -1,5 +1,5 @@
 <div align="center">
-            <image src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Nerd+Font&size=17&duration=3000&lines=Hi%20there,%20i%27m%20Renan">
+            <image src="https://readme-typing-svg.herokuapp.com/?color=5E81AC&font=JetBrains+Nerd+Font&size=17&duration=3000&lines=Hi%20there,%20i%27m%20Renan">
 
 
   <!--
