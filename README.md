@@ -19,7 +19,7 @@
 
   ![github stats](https://github-readme-stats.vercel.app/api?username=renanrod4&theme=nord)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanrod4&theme=nord&&hide=shell,scss)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanrod4&theme=nord&&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
     <div style="display: inline_block">
         <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
