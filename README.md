@@ -17,7 +17,7 @@
   - ⚡ Fun fact: ...
   -->
 
-  ![github stats](https://github-readme-stats.vercel.app/api?username=renanrod4&theme=nord)
+  ![github stats](https://github-readme-stats.vercel.app/api?username=renanrod4&show_icons=true&show=prs_merged_percentage&hide=contribs,prs&rank_icon=github&theme=nord)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanrod4&theme=nord&&hide=scss)](https://github.com/anuraghazra/github-readme-stats)
     <div style="display: inline_block">
