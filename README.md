@@ -27,10 +27,10 @@
 ---
 
 ### Technical Highlights
-* **[OctoDev](https://github.com/renanrod4/octodev)**: Gamified platform featuring dynamic Skill Trees. Transforms coding logic into an interactive Quiz-like learning experience.
+* **[OctoDev](https://github.com/0cto-dev/octodev)**: Gamified platform featuring dynamic Skill Trees. Transforms coding logic into an interactive Quiz-like learning experience.
     * `React` `Next.js` `MongoDB` `Rust` `Tauri` `Rest APIs`
 
-* **[Flexy API](https://github.com/renanrod4/flexy-api)**: An AI-powered mock data engine. Generates complex, context-aware JSON structures for rapid prototyping and frontend testing.
+* **[Flexy API](https://github.com/renanrod4/flexyApi)**: An AI-powered mock data engine. Generates complex, context-aware JSON structures for rapid prototyping and frontend testing.
     * `Next.js` `REST APIs` `AI Integration` `JSON`
     * 
 * **[Uniso Flow](https://github.com/renanrod4/uniso-flow)**: Predictive academic management system. Uses graph-based algorithms to forecast student demand and eliminate enrollment bottlenecks.
